@@ -1,10 +1,8 @@
-### Hi there 👋
-
-<!--
-**LeooSato/LeooSato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h1>Sinta-se em casa 🏠</h1>
+<h2>Eu sou Leonardo Sato</H2>
+<h2>Amante de tecnologia e estudante entusiasta!</h2>
+<h4>Formado em Desenvolvimento Web pela ETEC Lauro Gomes</h4>
+<h4>Atuamente cursando Universidade Federal do ABC em Bacharel em ciencia e tecnologia</h4>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
