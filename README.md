@@ -4,9 +4,7 @@
 <h4>Formado em Desenvolvimento Web pela ETEC Lauro Gomes</h4>
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
 <h4>Cursando tambem Desenvolvimento Full-Stack Java Junior pela GENERATION</h4>
-- 🌱 I’m currently learning JAVA
-- 💬 Ask me about everything hehe
-- 📫 How to reach me: lksato63@gmail.com //ask my number.
-- 🐶 Fun fact: Where are my testicles, Summer? They were removed, where have they gone?
-- 
--->
+<br>- 🌱 I’m currently learning JAVA
+<br>- 💬 Ask me about everything hehe
+<br>- 📫 How to reach me: lksato63@gmail.com //ask my number.
+<br>- 🐶 Fun fact: Where are my testicles, Summer? They were removed, where have they gone?
