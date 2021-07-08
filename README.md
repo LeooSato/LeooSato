@@ -7,4 +7,4 @@
 <br>- 🌱 I’m currently learning JAVA
 <br>- 💬 Ask me about everything hehe
 <br>- 📫 How to reach me: lksato63@gmail.com //ask my number.
-<br>- 🐶 Fun fact: Where are my testicles, Summer? They were removed, where have they gone?
+<br>- 🔫 Fun fact: Jogo joguinho de tiro online 
