@@ -6,8 +6,7 @@
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
 <h4>Cursando tambem Desenvolvimento Full-Stack Java Junior pela GENERATION</h4>
 -🌱 I’m currently learning JAVA
-<br>- 💬 Ask me about everything hehe
-<br>- 📫 How to reach me: lksato63@gmail.com //ask my number.
+<br>- 📫 How to reach me: lksato63@gmail.com
 <br>- 🔫 Fun fact: Jogo joguinho de tiro online </td>
 
 
