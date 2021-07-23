@@ -7,15 +7,15 @@
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
 <h4>Cursando tambem Desenvolvimento Full-Stack Java Junior pela GENERATION</h4>
 
--🌱 I’m currently learning JAVA
-<br>- 📫 How to reach me: lksato63@gmail.com
-<br>- 🔫 Fun fact: Jogo joguinho de tiro online
+<li>🌱 I’m currently learning JAVA
+<li> 📫 How to reach me: lksato63@gmail.com
+<li> 🔫 Fun fact: Jogo joguinho de tiro online
 
-
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" align="flex-box"/>
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" align="flex-box"/>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" align="flex-box"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"align="flex-box"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"/>
 
 
