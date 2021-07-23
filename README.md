@@ -11,7 +11,9 @@
 <li> 📫 How to reach me: lksato63@gmail.com
 <li> 🔫 Fun fact: Jogo joguinho de tiro online
 
-<br>
+ ![GitHub stats]("https://github-readme-stats.vercel.app/api?username=leoosato&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham")
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=leoosato&layout=compact&theme=gotham&custom_title=Statistics")
+
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
