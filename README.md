@@ -1,7 +1,9 @@
 <h1>Sinta-se em casa 🏠</h1>
 <h2>Eu sou Leonardo Sato</H2>
 <img align="right" src="https://image.flaticon.com/icons/png/512/720/720718.png" width="350" height="305"/>
-<h2>A vida é um jogo de grinding infinito...</h2>
+<h3 strong>
+Brazilian from South Side of SP
+</h3>
 <h2>Amante de tecnologia e estudante entusiasta!</h2>
 <h4>Formado em Desenvolvimento Web pela ETEC Lauro Gomes</h4>
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
