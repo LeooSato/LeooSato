@@ -9,8 +9,8 @@ Brazilian from South Side of SP
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
 <h4>Cursando tambem Desenvolvimento Full-Stack Java Junior pela GENERATION</h4>
 
-<li>🌱 I’m currently learning JAVA
-<li> 📫 How to reach me: lksato63@gmail.com
+<li>🌱 I’m currently learning Angular 13
+<li> 📫 How to reach me: leonardosato02@gmail.com
 <li> 🔫 Fun fact: Jogo joguinho de tiro online
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leoosato&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=radical)
