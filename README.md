@@ -1,6 +1,6 @@
 <h1>Sinta-se em casa 🏠</h1>
 <h2>Eu sou Leonardo Sato</H2>
-<img align="right" src="https://image.flaticon.com/icons/png/512/720/720718.png" width="350" height="305"/>
+<img align="right" src="https://marcosgamedev.com/wp-content/uploads/2019/03/GameStart-Transparente-Picadinho.png" width="350" height="305"/>
 <h3 strong>
 Brazilian from South Side of SP
 </h3>
