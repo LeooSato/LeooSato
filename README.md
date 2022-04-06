@@ -7,7 +7,6 @@ Brazilian from South Side of SP
 <h2>Amante de tecnologia e estudante entusiasta!</h2>
 <h4>Formado em Desenvolvimento Web pela ETEC Lauro Gomes</h4>
 <h4>Atuamente cursando Universidade Federal do ABC em Bacharel em Ciência e Tecnologia</h4>
-<h4>Cursando tambem Desenvolvimento Full-Stack Java Junior pela GENERATION</h4>
 
 <li>🌱 I’m currently learning Angular 13
 <li> 📫 How to reach me: leonardosato02@gmail.com
